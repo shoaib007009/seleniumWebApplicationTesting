@@ -1,0 +1,13 @@
+Information
+
+//Driver for Firefox
+				System.setProperty("webdriver.gecko.driver", "C:\\Users\\noman\\Downloads\\Documents\\geckodriver-v0.11.1-win32\\geckodriver.exe");
+				
+		//Driver for Google Chrome
+				//System.setProperty("webdriver.chrome.driver", "C:\\Users\\noman\\Downloads\\Documents\\chromedriver_win32\\chromedriver.exe");
+				
+			
+		// ChromeOptions options = new ChromeOptions();
+		 	// options.addArguments("--start-maximized");
+				//Driver for Google Chrome
+				    // WebDriver driver = new ChromeDriver();				
