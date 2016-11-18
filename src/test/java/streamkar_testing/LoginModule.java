@@ -36,7 +36,6 @@ public class LoginModule {
 		
 		// Reading Sheet From Workbook.
 		Sheet facebook = workbook.getSheet("facebook");
-		klasdl;ask;ldklas;dkas;
 		
 		//Chrome Web Driver Setup
 		ChromeOptions options = new ChromeOptions();
